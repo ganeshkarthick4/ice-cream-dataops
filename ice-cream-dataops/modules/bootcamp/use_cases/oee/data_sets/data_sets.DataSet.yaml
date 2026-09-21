@@ -1,0 +1,3 @@
+- externalId: {{ icapi_ds_external_id }}
+  name: overall-equipment-effectiveness
+  description: This dataset contains asset data for the icecream factory.
