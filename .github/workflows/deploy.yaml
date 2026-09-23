@@ -18,7 +18,7 @@ on:
 jobs:
   build-modules:
     name: Build & Deploy
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  # comment
     container:
       image: cognite/toolkit:0.6.53  # Make sure the toolkit version matches the version in cdf.toml
     strategy:
