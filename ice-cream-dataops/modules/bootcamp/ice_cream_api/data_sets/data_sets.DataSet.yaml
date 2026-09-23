@@ -1,3 +1,3 @@
-- externalId: {{ icapi_extractors_source_id }}
+- externalId: {{ icapi_ds_external_id }}
   name: icecream-source-data
   description: This dataset contains asset data for the icecream factory.
